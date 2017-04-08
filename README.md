@@ -73,6 +73,10 @@ A curated list of awesome Java frameworks, libraries and software.
     - [Websites](#websites)
 - [Contributing](#contributing)
 
+## Collaboration tools
+* [Direct Poll](http://directpoll.com/) - Conduct a poll instantly.
+* [Bluejeans](https://www.bluejeans.com/) - Conduct a webinar.
+
 ## Ancients
 
 *In existence since the beginning of time and which will continue being used long after the hype has waned.*
